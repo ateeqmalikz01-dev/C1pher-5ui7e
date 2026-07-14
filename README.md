@@ -3,5 +3,11 @@ This project simulates the role of a Cybersecurity Analyst tasked with building 
 
 
 
-# How to use
+# How to use(Linux Only)
 
+clone the repo:
+gh repo clone ateeqmalikz01-dev/C1pher-5ui7e
+
+# Run
+
+python3 cypher_tool.py
